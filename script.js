@@ -22,7 +22,7 @@ import slider from "./js/carrutsel.js";
 import scrollSpy from "./js/scroll_espia.js";
 import smartVideo from "./js/video_inteligente.js";
 import validarFormulario from "./js/formulario_valid.js";
-import contactFormValidations from "./assets/validaciones_formulario.js";
+import contactFormValidations from "./js/validaciones_formulario.js";
 import speechReader from "./js/narrador.js";
 
 
